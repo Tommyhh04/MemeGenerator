@@ -1,0 +1,18 @@
+.Display--container {
+  display: flex;
+  justify-content: center;
+}
+
+.Display {
+  display: flex;
+  justify-self: center;
+  max-height: 480px;
+  max-width: 270px;
+}
+
+.Meme--Img {
+  max-width: 270px;
+  width: auto;
+  height: auto;
+  max-height: 480px;
+}

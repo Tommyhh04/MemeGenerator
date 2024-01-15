@@ -17,6 +17,7 @@ button {
     rgba(103, 34, 128),
     rgba(133, 31, 141)
   );
+  font-size: 16px;
 }
 
 .userInput {
