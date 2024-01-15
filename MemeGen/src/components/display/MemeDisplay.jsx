@@ -7,6 +7,7 @@ export default function Display() {
     <div className="Display--container">
       <div className="Display">
         <img className="Meme--Img" src={Grafild}></img>
+        <h1>Bottom text</h1>
       </div>
     </div>
   );
