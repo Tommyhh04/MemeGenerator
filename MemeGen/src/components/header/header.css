@@ -1,5 +1,17 @@
 .header {
+  display: flex;
+  justify-content: space-between;
   height: 65px;
   width: 550px;
-  background-color: blue;
+  color: white;
+  background-image: linear-gradient(
+    to right,
+    rgba(103, 34, 128),
+    rgba(240, 186, 80)
+  );
+  padding: 10px;
+}
+
+.header--title {
+  display: flex;
 }
