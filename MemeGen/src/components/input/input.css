@@ -1,0 +1,31 @@
+input {
+  height: 35px;
+  width: 230px;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+button {
+  margin-top: 20px;
+  width: 445px;
+  height: 40px;
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  background-image: linear-gradient(
+    to right,
+    rgba(103, 34, 128),
+    rgba(133, 31, 141)
+  );
+}
+
+.userInput {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 165px;
+}
+
+.userInput--forms {
+}

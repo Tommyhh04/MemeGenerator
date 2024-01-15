@@ -1,8 +1,9 @@
 .header {
   display: flex;
   justify-content: space-between;
+
   height: 65px;
-  width: 550px;
+  width: auto;
   color: white;
   background-image: linear-gradient(
     to right,
