@@ -1,10 +1,11 @@
+/*Styles the text box forms*/
 input {
   height: 35px;
   width: 230px;
   border-radius: 5px;
   margin-right: 20px;
 }
-
+/*Styles the button*/
 button {
   margin-top: 20px;
   width: 445px;
@@ -20,13 +21,11 @@ button {
   font-size: 16px;
 }
 
+/*Keeps the forms inside a box to be easier placed*/
 .userInput {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
   height: 165px;
-}
-
-.userInput--forms {
 }

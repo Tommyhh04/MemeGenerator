@@ -1,3 +1,4 @@
+/*Styles the container for the header content*/
 .header {
   display: flex;
   justify-content: space-between;
@@ -12,11 +13,12 @@
   );
   padding: 10px;
 }
-
+/*Makes the Trollface.png and title text sit togheter so the other text can be moved to the other side of the header easier*/
 .header--title {
   display: flex;
 }
 
+/*Styles the Trollface.png*/
 img {
   margin-left: 20px;
   margin-right: 20px;

@@ -1,3 +1,4 @@
+/*Gives document zero margin to keep it to the edges*/
 body {
   margin: 0px;
 }

@@ -1,15 +1,16 @@
+/*Contains the content in a box to make it easier to move around */
 .Display--container {
   display: flex;
   justify-content: center;
 }
-
+/*Styles the container for where the meme is to be shown*/
 .Display {
   display: flex;
   justify-self: center;
   max-height: 480px;
   max-width: 270px;
 }
-
+/*Styles size of image*/
 .Meme--Img {
   max-width: 270px;
   width: auto;
