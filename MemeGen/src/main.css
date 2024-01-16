@@ -1,4 +1,5 @@
-/*Gives document zero margin to keep it to the edges*/
+/*Gives document zero margin to keep it to the edges and custom font Google Karla*/
 body {
   margin: 0px;
+  font-family: "Karla", sans-serif;
 }
