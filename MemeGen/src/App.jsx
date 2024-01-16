@@ -1,5 +1,5 @@
 import Header from "./components/header/header";
-import UserInput from "./components/input/input";
+import UserInput from "./components/inputComponent/input";
 import Display from "./components/display/MemeDisplay";
 
 function App() {
