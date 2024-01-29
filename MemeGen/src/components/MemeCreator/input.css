@@ -33,3 +33,13 @@ button {
   justify-content: center;
   height: 165px;
 }
+
+/*Styles the placement and the meme image*/
+.image--container {
+  display: flex;
+  justify-content: center;
+}
+
+.meme--image {
+  max-width: 100%;
+}

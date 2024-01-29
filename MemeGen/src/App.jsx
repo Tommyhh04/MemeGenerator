@@ -1,13 +1,11 @@
 import Header from "./components/header/header";
-import UserInput from "./components/inputComponent/input";
-import Display from "./components/display/MemeDisplay";
+import UserInput from "./components/MemeCreator/input";
 
 function App() {
   return (
     <div className="box">
       <Header />
       <UserInput />
-      <Display />
     </div>
   );
 }
